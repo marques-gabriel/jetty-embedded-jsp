@@ -44,5 +44,5 @@ $ docker run -p 8080:8080 jetty
 
 ## Author
 
-| [<img src="https://avatars.githubusercontent.com/u/59850744?v=4" width="155"><br><sub>@gabriel0x01</sub>](https://github.com/gabriel0x01) |
+| [<img src="https://avatars.githubusercontent.com/u/59850744?v=4" width="155"><br><sub>@gabrielmarquestech</sub>](https://github.com/gabrielmarquestech) |
 | :---: |
