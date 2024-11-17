@@ -3,20 +3,19 @@ import util.Logger;
 
 public class Application {
 
-    public static void main(String[] args) {
-        try {
-            long startTime;
+  public static void main(String[] args) {
+    try {
+      long startTime;
 
-            startTime = System.currentTimeMillis();
+      startTime = System.currentTimeMillis();
 
-            Logger.showBanner();
-            Logger.log("Embedded Web Container", "Starting... ");
+      Logger.showBanner();
+      Logger.log("Embedded Web Container", "Starting... ");
 
-            AppServer.start(startTime);
+      AppServer.start(startTime);
 
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+    } catch (Exception e) {
+      e.printStackTrace();
     }
-
+  }
 }
