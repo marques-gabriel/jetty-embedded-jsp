@@ -38,10 +38,7 @@ $ docker run -p 8080:8080 jetty
 
 ## Running
 <p align="center">
-  <img src="https://github.com/gabriel0x01/jetty-embedded-jsp/assets/59850744/cb9138be-d1ab-47b5-ba65-5af9fdc8b95a">
+  <img src="https://github.com/user-attachments/assets/9ac8db84-a743-4310-b2c6-27853d01f6db">
 </p>
 
-
-## Author
-
-[Gabriel Marques](https://github.com/marques-gabriel)
+##
